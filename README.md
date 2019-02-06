@@ -6,6 +6,9 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 ***
 
 # Juanry
+* 2 January 1993 - [Crypto Rebels by Steven Levy ](https://www.wired.com/1993/02/crypto-rebels/)
+* 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/) Biggest 
+data breach.
 
 # February
 
@@ -49,3 +52,4 @@ contains May's 1992 essay "The Crypto Anarchist Manifesto" in its entirety.[link
 
 # Dicember
 * ? December 1994 - [Crypto Anarchy and Virtual Communities by Tim May](https://nakamotoinstitute.org/virtual-communities/)
+* 13 December 2019 _ [Tim May was](https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html)
