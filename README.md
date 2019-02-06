@@ -24,6 +24,7 @@ Main principles abput cypherpunks movement.
 # April
 
 # May
+* May 21–23, 1991 - [Numbers can be a better form of cash than paper by David Chaum](https://link.springer.com/chapter/10.1007%2F3-540-57341-0_61)
 
 # June
 * 5 June 1991 - [PGP first release](https://www.philzimmermann.com/EN/news/PGP_10thAnniversary.html) 
@@ -57,6 +58,7 @@ markets. It also contains May's 1992 essay "The Crypto Anarchist Manifesto" in i
 /wiki/Cyphernomicon)
 
 * 20 September 2002 -[TOR first release](http://archives.seul.org/or/dev/Sep-2002/msg00019.html) 
+
 Tor is free and open-source software for enabling anonymous communication. The name is derived from an acronym for the original 
 software project name "The Onion Router" Tor directs Internet traffic through a free, worldwide, volunteer overlay network 
 consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance 
@@ -84,3 +86,9 @@ Main principles abput cypherpunks movement.
 # Dicember
 * ? December 1994 - [Crypto Anarchy and Virtual Communities by Tim May](https://nakamotoinstitute.org/virtual-communities/)
 * 13 December 2019 - [Tim May was](https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html)
+
+# Year
+
+* ? 1982  - [Blind Signatures for Untraceable Payments by David Chaum](https://nakamotoinstitute.org/literature/blind-signatures/)
+
+* ? 1988 - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms by David Chaum](https://nakamotoinstitute.org/authors/david-chaum/)
