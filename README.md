@@ -10,7 +10,7 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 Wired article about cypherpunks
 
 * 3 January 2009 - [Bitcoin genesis block](https://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f),
-Bitcoin starts.[link](https://www.wired.com/2011/11/mf-bitcoin/)
+Bitcoin starts. [link](https://www.wired.com/2011/11/mf-bitcoin/)
 
 * 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/), 
 Biggest data breach in history until now.
@@ -37,7 +37,7 @@ internet giants.
 
 * 8 june 1949 - [1984 by George Orwell](http://gutenberg.net.au/ebooks01/0100021.txt)
 The novel is set in the year 1984 when most of the world population have become victims of perpetual war, omnipresent government 
-surveillance and propaganda.[link](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+surveillance and propaganda. [link](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 
 
 # July
