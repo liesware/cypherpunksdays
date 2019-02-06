@@ -9,6 +9,9 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 * 2 January 1993 - [Crypto Rebels by Steven Levy ](https://www.wired.com/1993/02/crypto-rebels/), 
 Wired article about cypherpunks
 
+* 3 January 2009 - [Bitcoin genesis block](https://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f),
+Bitcoin starts.[link](https://www.wired.com/2011/11/mf-bitcoin/)
+
 * 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/), 
 Biggest data breach in history until now.
 
