@@ -5,7 +5,7 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 
 ***
 
-# Juanry
+# January
 * 2 January 1993 - [Crypto Rebels by Steven Levy ](https://www.wired.com/1993/02/crypto-rebels/)
 
 Wired article about cypherpunks
