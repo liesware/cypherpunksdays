@@ -47,14 +47,15 @@ It is a document written by Timothy  C. May in 1994 for the Cypherpunks electron
 [link](https://en.wikipedia.org/wiki/Cyphernomicon)
 
 * 20 September 2002 -[TOR first release](http://archives.seul.org/or/dev/Sep-2002/msg00019.html),  
-Tor is free and open-source software for enabling anonymous communication.[link](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
+Tor is free and open-source software for enabling anonymous communication.
+[link](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
 
 
 * 21 September 1992 - [Cypherpunks mailing list starts](https://cypherpunks.venona.com/raw/cyp-1992.txt),  
 it was a very active 
 forum with technical discussion ranging over mathematics, cryptography, computer science, political and philosophical discussion, 
-personal arguments and attacks, etc., with some spam thrown in.[link](https://cryptoanarchy.wiki/getting-started/what-is-the-
-cypherpunks-mailing-list)
+personal arguments and attacks, etc., with some spam thrown in.
+[link](https://cryptoanarchy.wiki/getting-started/what-is-the-cypherpunks-mailing-list)
 
 # Octuber
 * 31 Octuber 2008 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/), Bitcoin paper.
