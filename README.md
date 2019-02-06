@@ -8,7 +8,7 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 # Juanry
 * 2 January 1993 - [Crypto Rebels by Steven Levy ](https://www.wired.com/1993/02/crypto-rebels/)
 
-First press article about cypherpunks
+Wired article about cypherpunks
 
 * 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/) 
 
@@ -55,6 +55,13 @@ outlines some of the ideas behind, and the  effects of, crypto-anarchism. It is 
 advocating electronic privacy and anonymous digital currency. It also touches on more esoteric topics, such as assassination 
 markets. It also contains May's 1992 essay "The Crypto Anarchist Manifesto" in its entirety.[link](https://en.wikipedia.org
 /wiki/Cyphernomicon)
+
+* 20 September 2002 -[TOR first release](http://archives.seul.org/or/dev/Sep-2002/msg00019.html) 
+Tor is free and open-source software for enabling anonymous communication. The name is derived from an acronym for the original 
+software project name "The Onion Router" Tor directs Internet traffic through a free, worldwide, volunteer overlay network 
+consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance 
+or traffic analysis.[link](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
+
 
 * 21 September 1992 - [Cypherpunks mailing list starts](https://cypherpunks.venona.com/raw/cyp-1992.txt) 
 
