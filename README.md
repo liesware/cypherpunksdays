@@ -19,7 +19,7 @@ Biggest data breach in history until now.
 
 # March
 * 3 March 1993 - [A Cypherpunk's Manifesto by  Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html), Main principles 
-abput cypherpunks movement.
+about cypherpunks movement.
 
 # April
 
