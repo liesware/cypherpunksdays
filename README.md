@@ -4,7 +4,9 @@ A calendar to remember days in Cypherpunk's  history
 Feel free to clobber this page and/or add Dates . But please make it better in the process.
 
 Or send an email liesware 4t liesware dot com
+
 subject: Cypherpunksdays | (your date)
+
 body:
 * day/month/year 
 * Short description
