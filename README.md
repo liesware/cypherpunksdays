@@ -1,10 +1,10 @@
 # Cypherpunk's days
 A calendar to remember days in Cypherpunk's  history
 
-Feel free to clobber this page and/or add Dates . But please make it better in the process or send an email liesware 4t liesware 
-dot com
+Feel free to clobber this page and/or add Dates . But please make it better in the process or send an email to _liesware 4t liesware dot com_
 
 Subject: Cypherpunksdays | (your date)
+
 Body:
 * day/month/year 
 * Short description
