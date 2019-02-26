@@ -53,13 +53,19 @@ surveillance and propaganda. [link](https://en.wikipedia.org/wiki/Nineteen_Eight
 # July
 
 # August
+* 8 August 2013 - [Lavabit shuts down](https://web.archive.org/web/20130809031439/https://lavabit.com/)  Encrypted webmail 
+service, this service was used by Edward Snowden. [link](https://www.forbes.com/sites/kashmirhill/2013/08/08/email-company-
+reportedly-used-by-edward-snowden-shuts-down-rather-than-hand-data-over-to-feds/)
+
+* 9 September 2013 - [Silent mail shuts down](https://www.forbes.com/sites/parmyolson/2013/08/09/encryption-app-silent-circle-
+shuts-down-e-mail-service-to-prevent-spying/) Encrypted webmail service.
 
 # September
 * 9 September 1994 - [THE CYPHERNOMICON by Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt),  
 It is a document written by Timothy  C. May in 1994 for the Cypherpunks electronic mailing list.
 [link](https://en.wikipedia.org/wiki/Cyphernomicon)
 
-* 20 September 2002 -[TOR first release](http://archives.seul.org/or/dev/Sep-2002/msg00019.html),  
+* 20 September 2002 -[TOR first release](http://archives.seul.org/or/dev/Sep-2002/msg00019.html).  
 Tor is free and open-source software for enabling anonymous communication.
 [link](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
 
