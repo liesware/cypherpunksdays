@@ -88,3 +88,7 @@ Main principles abput cypherpunks movement.
 * ? 1982  - [Blind Signatures for Untraceable Payments by David Chaum](https://nakamotoinstitute.org/literature/blind-signatures/)
 
 * ? 1988 - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms by David Chaum](https://nakamotoinstitute.org/authors/david-chaum/)
+
+# Contributors
+
+* Liesware.com
