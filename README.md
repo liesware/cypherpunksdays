@@ -6,7 +6,7 @@ Feel free to clobber this page and/or add Dates . But please make it better in t
 Subject: Cypherpunksdays | (your date)
 
 Body:
-* day/month/year 
+* Day/Month/Year 
 * Short description
 * Link
 * Additional comments
