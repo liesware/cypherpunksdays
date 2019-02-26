@@ -54,11 +54,9 @@ surveillance and propaganda. [link](https://en.wikipedia.org/wiki/Nineteen_Eight
 
 # August
 * 8 August 2013 - [Lavabit shuts down](https://web.archive.org/web/20130809031439/https://lavabit.com/)  Encrypted webmail 
-service, this service was used by Edward Snowden. [link](https://www.forbes.com/sites/kashmirhill/2013/08/08/email-company-
-reportedly-used-by-edward-snowden-shuts-down-rather-than-hand-data-over-to-feds/)
+service, this service was used by Edward Snowden. [link](https://www.forbes.com/sites/kashmirhill/2013/08/08/email-company-reportedly-used-by-edward-snowden-shuts-down-rather-than-hand-data-over-to-feds/)
 
-* 9 September 2013 - [Silent mail shuts down](https://www.forbes.com/sites/parmyolson/2013/08/09/encryption-app-silent-circle-
-shuts-down-e-mail-service-to-prevent-spying/) Encrypted webmail service.
+* 9 September 2013 - [Silent mail shuts down](https://www.forbes.com/sites/parmyolson/2013/08/09/encryption-app-silent-circle-shuts-down-e-mail-service-to-prevent-spying/) Encrypted webmail service.
 
 # September
 * 9 September 1994 - [THE CYPHERNOMICON by Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt),  
