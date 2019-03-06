@@ -74,11 +74,13 @@ personal arguments and attacks, etc., with some spam thrown in. [link](https://c
 # October
 * 3 October 2013 - [FBI shuts down Silk Road website](https://www.bbc.com/news/av/technology-24378137/fbi-shuts-down-silk-road-website)
 
+* 17 October 2013 - [CryptoNote v2.0 ](https://lab.getmonero.org/pubs/whitepaper.pdf), Monero paper.[link](https://www.wired.com/2017/01/monero-drug-dealers-cryptocurrency-choice-fire/)
+
 * 31 October 2008 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/), Bitcoin paper.[link](https://en.wikipedia.org/wiki/Bitcoin) 
 
 
 # November
-* 22 November 1992 - [The Crypto Anarchist Manifesto by Tim May](https://www.activism.net/cypherpunk/crypto-anarchy.html), Main principles abput cypherpunks movement.
+* 22 November 1992 - [The Crypto Anarchist Manifesto by Tim May](https://www.activism.net/cypherpunk/crypto-anarchy.html), Main principles about cypherpunks movement.
 
 * 26 November 1998 - [B-money Description](http://www.weidai.com/bmoney.txt), It was an early proposal created by Wei Dai for an 
 _"anonymous, distributed electronic cash system"_. Satoshi Nakamoto referenced b-money when creating Bitcoin  [link](https://cypherpunks.venona.com/date/1998/11/msg00941.html)
