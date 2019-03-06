@@ -73,6 +73,9 @@ personal arguments and attacks, etc., with some spam thrown in. [link](https://c
 # November
 * 22 November 1992 - [The Crypto Anarchist Manifesto by Tim May](https://www.activism.net/cypherpunk/crypto-anarchy.html), Main principles abput cypherpunks movement.
 
+* 26 November 1998 - [B-money Description](http://www.weidai.com/bmoney.txt) It was an early proposal created by Wei Dai for an 
+"anonymous, distributed electronic cash system". Satoshi Nakamoto referenced b-money when creating Bitcoin  [link](https://cypherpunks.venona.com/date/1998/11/msg00941.html)
+
 # Dicember
 * ? December 1994 - [Crypto Anarchy and Virtual Communities by Tim May](https://nakamotoinstitute.org/virtual-communities/)
 * 13 December 2019 - [Tim May was](https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html)
