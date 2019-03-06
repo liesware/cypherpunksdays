@@ -45,6 +45,8 @@ internet giants.
 * 8 june 1949 - [1984 by George Orwell](http://gutenberg.net.au/ebooks01/0100021.txt), The novel is set in the year 1984 when 
 most of the world population have become victims of perpetual war, omnipresent government surveillance and propaganda. [link](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
 
+* ? June 1991 - [Why I Wrote PGP by Philip Zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+
 # July
 * 30 July 2015 - [Etherum geneis block](https://etherscan.io/block/0).
 
@@ -69,8 +71,10 @@ software for enabling anonymous communication. [link](https://en.wikipedia.org/w
 forum with technical discussion ranging over mathematics, cryptography, computer science, political and philosophical discussion, 
 personal arguments and attacks, etc., with some spam thrown in. [link](https://cryptoanarchy.wiki/getting-started/what-is-the-cypherpunks-mailing-list)
 
-# Octuber
-* 31 Octuber 2008 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/), Bitcoin paper.[link](https://en.wikipedia.org/wiki/Bitcoin) 
+# October
+* 3 October 2013 - [FBI shuts down Silk Road website](https://www.bbc.com/news/av/technology-24378137/fbi-shuts-down-silk-road-website)
+
+* 31 October 2008 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/), Bitcoin paper.[link](https://en.wikipedia.org/wiki/Bitcoin) 
 
 
 # November
