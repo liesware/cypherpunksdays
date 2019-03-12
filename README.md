@@ -82,6 +82,8 @@ personal arguments and attacks, etc., with some spam thrown in. [link](https://c
 
 
 # November
+* 20-22 November 1994 - [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer by Peter W. Shor](https://arxiv.org/abs/quant-ph/9508027v2)
+
 * 22 November 1992 - [The Crypto Anarchist Manifesto by Tim May](https://www.activism.net/cypherpunk/crypto-anarchy.html), Main principles about cypherpunks movement.
 
 * 26 November 1998 - [B-money Description](http://www.weidai.com/bmoney.txt), It was an early proposal created by Wei Dai for an 
