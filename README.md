@@ -50,7 +50,7 @@ most of the world population have become victims of perpetual war, omnipresent g
 * ? June 1991 - [Why I Wrote PGP by Philip Zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
 # July
-* 20 July 2016 - [The cypherpunk revolution by Thomas Rid](http://projects.csmonitor.com/cypherpunk) 
+* 20 July 2016 - [The cypherpunk revolution by Thomas Rid](http://projects.csmonitor.com/cypherpunk), 
 How the tech vanguard turned public-key cryptography into one of the most potent political ideas of the 21st century.
 
 * 30 July 2015 - [Ethereum geneis block](https://etherscan.io/block/0).
