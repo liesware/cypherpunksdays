@@ -48,7 +48,7 @@ most of the world population have become victims of perpetual war, omnipresent g
 * ? June 1991 - [Why I Wrote PGP by Philip Zimmermann](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
 # July
-* 30 July 2015 - [Etherum geneis block](https://etherscan.io/block/0).
+* 30 July 2015 - [Ethereum geneis block](https://etherscan.io/block/0).
 
 # August
 * 8 August 2013 - [Lavabit shuts down](https://web.archive.org/web/20130809031439/https://lavabit.com/),  Encrypted webmail 
