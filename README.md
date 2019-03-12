@@ -20,7 +20,7 @@ Body:
 
 * 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/), Biggest data breach in history until now.
 
-* 23 January 2014 - [Ethereum White Paper A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf), Ethereum paper.[Link](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/)
+* 23 January 2014 - [Ethereum White Paper A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf), Ethereum paper. [link](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/)
 
 # February
 
