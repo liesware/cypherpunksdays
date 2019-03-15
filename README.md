@@ -115,6 +115,8 @@ circumvention tool.[link](https://psiphon.ca/en/about.html)
 
 * ? 1996 - [E-gold was funded](https://blog.e-gold.com/), It was a gold digital currencies.[link](https://en.bitcoin.it/wiki/E-gold) 
 
+* ? 2006 - [Liberty Reserve was funded](https://web.archive.org/web/20080801000000*/libertyreserve.com)
+
 # Contributors
 
 * [Liesware.com](https://coherence.liesware.com/)
