@@ -88,6 +88,8 @@ personal arguments and attacks, etc., with some spam thrown in. [link](https://c
 
 
 # November
+* 6 November 1976 - [New  Directions  in  Cryptography by  Whitfield Diffie and Martin Hellman](https://ee.stanford.edu/%7Ehellman/publications/24.pdf), Key exchange algorithm.
+
 * 20-22 November 1994 - [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer by Peter W. Shor](https://arxiv.org/abs/quant-ph/9508027v2)
 
 * 22 November 1992 - [The Crypto Anarchist Manifesto by Tim May](https://www.activism.net/cypherpunk/crypto-anarchy.html), Main principles about cypherpunks movement.
