@@ -95,6 +95,8 @@ personal arguments and attacks, etc., with some spam thrown in. [link](https://c
 * 26 November 1998 - [B-money Description](http://www.weidai.com/bmoney.txt), It was an early proposal created by Wei Dai for an 
 _"anonymous, distributed electronic cash system"_. Satoshi Nakamoto referenced b-money when creating Bitcoin  [link](https://cypherpunks.venona.com/date/1998/11/msg00941.html)
 
+* 29 November 2013 - [Tor hidden service first proposal](https://gitweb.torproject.org/torspec.git/tree/rend-spec-v3.txt), AKA Tor Rendezvous Specification.[link](https://www.torproject.org/docs/onion-services.html.en)
+
 # Dicember
 * ? December 1994 - [Crypto Anarchy and Virtual Communities by Tim May](https://nakamotoinstitute.org/virtual-communities/)
 * 13 December 2019 - [Tim May was](https://www.nytimes.com/2018/12/21/obituaries/timothy-c-may-dead.html)
