@@ -111,6 +111,8 @@ circumvention tool.[link](https://psiphon.ca/en/about.html)
 
 * ? 1988 - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms by David Chaum](https://nakamotoinstitute.org/authors/david-chaum/)
 
+* ? 189 -[DigiCash Inc. was an electronic money corporation founded by David Chaum](https://web.archive.org/web/19961102102838/http://digicash.com/)
+
 # Contributors
 
 * Liesware.com
