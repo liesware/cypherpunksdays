@@ -18,6 +18,8 @@ Body:
 
 * 3 January 2009 - [Bitcoin genesis block](https://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f), Bitcoin starts. [link](https://www.wired.com/2011/11/mf-bitcoin/)
 
+* 5 January 2012 - [Cicada 3301 starts](https://uncovering-cicada.fandom.com/wiki/Category:LINKS_AND_INFORMATIONS_ON_CICADA_PUZZLES_FROM_2012), One of the best cryptographic puzsles. [link](https://twitter.com/1231507051321)
+
 * 17 January 2019 - [Collection #1 by Troy Hunt](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/), Biggest data breach in history until now.
 
 * 23 January 2014 - [Ethereum White Paper A NEXT GENERATION SMART CONTRACT & DECENTRALIZED APPLICATION PLATFORM](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf), Ethereum paper. [link](https://blog.ethereum.org/2014/01/23/ethereum-now-going-public/)
